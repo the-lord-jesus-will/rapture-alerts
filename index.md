@@ -1,6 +1,6 @@
 <p><video src="./assets/Thoose-Theme-Below.webm" autoplay loop muted></video></p>
 
-[Dark Theme](./index.html) / [Light Theme](./index-2.html).
+[Dark Theme](./index-2.html) / [Light Theme](./index.html).
 
 ---
 
